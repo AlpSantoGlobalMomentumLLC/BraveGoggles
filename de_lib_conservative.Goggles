@@ -269,3 +269,70 @@ $downrank=1,site=harpers.org
 $downrank=1,site=atlanticcouncil.org
 $downrank=1,site=cfr.org
 
+
+That's easy, hier ist die überarbeitete und kritisch durchdachte Liste, kategorisiert und angepasst:
+
+! name: Downrank State Media - Germany
+! description: Rank results to downrank content from state-run or state-affiliated media sources in Germany, categorized by political bias.
+! public: true
+! author: YourName
+! homepage: https://www.allsides.com/
+! avatar: #ca0800
+
+! Links laut AI
+$downrank=5,site=ard.de
+$downrank=5,site=br.de
+$downrank=5,site=hr.de
+$downrank=5,site=mdr.de
+$downrank=5,site=ndr.de
+$downrank=5,site=radio-bremen.de
+$downrank=5,site=rbbonline.de
+$downrank=5,site=sr.de
+$downrank=5,site=swr.de
+$downrank=5,site=wdr.de
+$downrank=5,site=deutschlandradio.de
+$downrank=5,site=dw.com
+$downrank=5,site=tagesschau.de
+$downrank=5,site=heute.de
+$downrank=5,site=zdf.de
+$downrank=5,site=arte.tv
+$downrank=5,site=3sat.de
+$downrank=5,site=kika.de
+$downrank=5,site=funk.net
+
+! Sehr Links  laut AI
+$downrank=7,site=bundesregierung.de
+$downrank=7,site=bundestag.de
+$downrank=7,site=behoerden-spiegel.de
+$downrank=7,site=nachhaltigkeitsrat.de
+$downrank=7,site=deutschland.de
+$downrank=7,site=konrad-adenauer-stiftung.de
+$downrank=7,site=fes.de
+$downrank=7,site=boell.de
+$downrank=7,site=rosalux.de
+$downrank=7,site=weizsaecker.de
+$downrank=7,site=diw.de
+$downrank=7,site=helmholtz.de
+$downrank=7,site=mpg.de
+$downrank=7,site=leopoldina.org
+$downrank=7,site=wzb.eu
+$downrank=7,site=kit.edu
+$downrank=7,site=fraunhofer.de
+$downrank=7,site=dkfz.de
+$downrank=7,site=rki.de
+
+! Extrem Links laut AI
+$downrank=10,site=dlf.de
+$downrank=10,site=bpb.de
+$downrank=10,site=lmz-bw.de
+$downrank=10,site=jugendmedienschutz.de
+$downrank=10,site=medienanstalt-nrw.de
+$downrank=10,site=lfm-nrw.de
+$downrank=10,site=stmas.bayern.de
+$downrank=10,site=staatskanzlei.bayern.de
+$downrank=10,site=staatsministerium.sachsen.de
+$downrank=10,site=nsa.sachsen-anhalt.de
+$downrank=10,site=verwaltung.bund.de
+$downrank=10,site=bsi.bund.de
+$downrank=10,site=bsz.bund.de
+
