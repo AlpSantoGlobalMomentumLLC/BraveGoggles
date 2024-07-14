@@ -34,7 +34,7 @@ $boost=10,site=achgut.com
 $boost=10,site=journalistenwatch.com
 $boost=8,site=freiewelt.net
 $boost=8,site=tichyseinblick.de
-$boost=3,site=cicero.de
+! $boost=3,site=cicero.de
 $boost=2,site=philosophia-perennis.com
 
 $boost=8,site=nius.de
