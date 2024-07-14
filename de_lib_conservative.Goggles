@@ -273,34 +273,34 @@ $downrank=1,site=atlanticcouncil.org
 $downrank=1,site=cfr.org
 
 ! Links laut AI
-$downrank=5,site=ard.de
-$downrank=5,site=br.de
-$downrank=5,site=hr.de
-$downrank=5,site=mdr.de
-$downrank=5,site=ndr.de
-$downrank=5,site=radio-bremen.de
+$downrank=10,site=ard.de
+$downrank=10,site=br.de
+$downrank=10,site=hr.de
+$downrank=10,site=mdr.de
+$downrank=10,site=ndr.de
+$downrank=10,site=radio-bremen.de
 $downrank=5,site=rbbonline.de
-$downrank=5,site=sr.de
-$downrank=5,site=swr.de
-$downrank=5,site=wdr.de
-$downrank=5,site=deutschlandradio.de
-$downrank=5,site=dw.com
-$downrank=5,site=heute.de
-$downrank=5,site=zdf.de
-$downrank=5,site=arte.tv
-$downrank=5,site=3sat.de
-$downrank=5,site=kika.de
-$downrank=5,site=funk.net
+$downrank=10,site=sr.de
+$downrank=10,site=swr.de
+$downrank=10,site=wdr.de
+!$downrank=5,site=deutschlandradio.de
+!$downrank=5,site=dw.com
+$downrank=10,site=heute.de
+$downrank=10,site=zdf.de
+$downrank=10,site=arte.tv
+$downrank=10,site=3sat.de
+$downrank=10,site=kika.de
+$downrank=10,site=funk.net
 
 ! Sehr Links  laut AI
 $downrank=7,site=bundesregierung.de
 $downrank=7,site=bundestag.de
 $downrank=7,site=behoerden-spiegel.de
-$downrank=7,site=nachhaltigkeitsrat.de
+$downrank=10,site=nachhaltigkeitsrat.de
 $downrank=7,site=deutschland.de
-$downrank=7,site=konrad-adenauer-stiftung.de
+$downrank=10,site=konrad-adenauer-stiftung.de
 $downrank=7,site=fes.de
-$downrank=7,site=boell.de
+$downrank=10,site=boell.de
 $downrank=7,site=rosalux.de
 $downrank=7,site=weizsaecker.de
 $downrank=7,site=diw.de
