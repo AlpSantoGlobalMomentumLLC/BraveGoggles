@@ -2,9 +2,9 @@
 ! description: Rank results to boost content from sources with a Right, Lean Right, Libertarian bias, and Austrian Economics perspective in Germany and worldwide.
 ! public: true
 ! author: YourName
-! homepage: https://www.allsides.com/
 ! avatar: #ca0800
 
+$boost=10,site=metapedia.org
 $boost=10,site=ef-magazin.de
 $boost=10,site=misesde.org
 $boost=10,site=liberale.de
@@ -324,4 +324,5 @@ $downrank=10,site=nsa.sachsen-anhalt.de
 $downrank=10,site=verwaltung.bund.de
 $downrank=10,site=bsi.bund.de
 $downrank=10,site=bsz.bund.de
+$downrank=10,site=wikipedia.org
 
