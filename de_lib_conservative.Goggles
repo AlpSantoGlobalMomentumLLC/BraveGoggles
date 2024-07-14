@@ -34,8 +34,6 @@ $boost=4,site=konservativ.de
 /r/The_Donald/$boost=3,site=reddit.com
 /r/Conservative/$boost=3,site=reddit.com
 
-$boost=3,site=welt.de
-$boost=3,site=focus.de
 $boost=3,site=nzz.ch
 $boost=3,site=baslerzeitung.ch
 $boost=3,site=epochtimes.de
@@ -45,6 +43,8 @@ $boost=3,site=deutschland-kurier.org
 /opinion^$boost=3,site=welt.de
 /opinion^$boost=3,site=focus.de
 
+$boost=2,site=welt.de
+$boost=2,site=focus.de
 $boost=2,site=theeuropean.de
 $boost=2,site=freiepresse.de
 $boost=2,site=achgut.com
