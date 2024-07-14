@@ -1,7 +1,8 @@
-! name: News from the Conservative, Libertarian, and Austrian Economics - Germany
+! name: News from the Right, Libertarian, and Austrian Economics - Germany
 ! description: Rank results to boost content from sources with a Right, Lean Right, Libertarian bias, and Austrian Economics perspective in Germany and worldwide.
 ! public: true
 ! author: YourName
+! homepage: https://www.allsides.com/
 ! avatar: #ca0800
 
 $boost=5,site=ef-magazin.de
@@ -43,8 +44,6 @@ $boost=3,site=deutschland-kurier.org
 /opinion^$boost=3,site=welt.de
 /opinion^$boost=3,site=focus.de
 
-! $boost=2,site=welt.de
-! $boost=2,site=focus.de
 $boost=2,site=theeuropean.de
 $boost=2,site=freiepresse.de
 $boost=2,site=achgut.com
@@ -52,10 +51,8 @@ $boost=2,site=metropolico.org
 $boost=2,site=diefreiemeinung.de
 $boost=2,site=contra-magazin.com
 $boost=2,site=kopp-report.de
-$boost=2,site=de.rt.com
 $boost=2,site=unser-mitteleuropa.com
 $boost=2,site=opposition24.com
-$boost=2,site=deutschlandfunk.de
 $boost=2,site=deutsche-wirtschafts-nachrichten.de
 $boost=2,site=pi-news.net
 $boost=2,site=philosophia-perennis.com
