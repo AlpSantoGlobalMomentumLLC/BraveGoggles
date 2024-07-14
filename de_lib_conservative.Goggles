@@ -28,7 +28,7 @@ $boost=8,site=cicero.de
 $boost=8,site=philosophia-perennis.com
 $boost=8,site=davidswanson.org
 $boost=8,site=konservativ.de
-$boost=8,nius.de
+$boost=8,site=nius.de
 $boost=8,site=norberthaering.de
 
 /r/uncensorednews/$boost=3,site=reddit.com
