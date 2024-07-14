@@ -20,6 +20,8 @@ $boost=10,site=mises.org
 $boost=10,site=hayek-institut.at
 $boost=10,site=fee.org
 $boost=10,site=libertarianism.org
+$boost=10,site=afdkompakt.de
+$boost=10,site=www.campact.de
 
 $boost=8,site=achgut.com
 $boost=8,site=journalistenwatch.com
@@ -285,6 +287,7 @@ $downrank=10,site=3sat.de
 $downrank=10,site=kika.de
 $downrank=10,site=funk.net
 
+
 ! Sehr Links  laut AI
 $downrank=7,site=bundesregierung.de
 $downrank=7,site=bundestag.de
@@ -321,4 +324,7 @@ $downrank=10,site=verwaltung.bund.de
 $downrank=10,site=bsi.bund.de
 $downrank=10,site=bsz.bund.de
 $downrank=10,site=wikipedia.org
+$downrank=10,site=www.rnd.de
+$downrank=10,site=reuters.com
+$downrank=10,site=euractiv.com
 
