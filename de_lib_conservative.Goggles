@@ -327,4 +327,5 @@ $downrank=10,site=wikipedia.org
 $downrank=10,site=www.rnd.de
 $downrank=10,site=reuters.com
 $downrank=10,site=euractiv.com
+$downrank=10,site=stern.de
 
