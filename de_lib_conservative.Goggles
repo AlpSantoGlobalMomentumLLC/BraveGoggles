@@ -5,29 +5,31 @@
 ! homepage: https://www.allsides.com/
 ! avatar: #ca0800
 
-$boost=5,site=ef-magazin.de
-$boost=5,site=misesde.org
-$boost=5,site=liberale.de
-$boost=5,site=freiheitsfunken.info
-$boost=5,site=anarcho-kapitalismus.de
-$boost=5,site=deutsche-libertäre.de
-$boost=5,site=gegenmacht.de
-$boost=5,site=liberty.li
-$boost=5,site=think-libertarian.de
-$boost=5,site=mises.org
-$boost=5,site=hayek-institut.at
-$boost=5,site=fee.org
-$boost=5,site=libertarianism.org
+$boost=10,site=ef-magazin.de
+$boost=10,site=misesde.org
+$boost=10,site=liberale.de
+$boost=10,site=freiheitsfunken.info
+$boost=10,site=anarcho-kapitalismus.de
+$boost=10,site=deutsche-libertäre.de
+$boost=10,site=gegenmacht.de
+$boost=10,site=liberty.li
+$boost=10,site=think-libertarian.de
+$boost=10,site=mises.org
+$boost=10,site=hayek-institut.at
+$boost=10,site=fee.org
+$boost=10,site=libertarianism.org
 
-$boost=4,site=achgut.com
-$boost=4,site=journalistenwatch.com
-$boost=4,site=pi-news.net
-$boost=4,site=freiewelt.net
-$boost=4,site=tichyseinblick.de
-$boost=4,site=cicero.de
-$boost=4,site=philosophia-perennis.com
-$boost=4,site=davidswanson.org
-$boost=4,site=konservativ.de
+$boost=8,site=achgut.com
+$boost=8,site=journalistenwatch.com
+$boost=8,site=pi-news.net
+$boost=8,site=freiewelt.net
+$boost=8,site=tichyseinblick.de
+$boost=8,site=cicero.de
+$boost=8,site=philosophia-perennis.com
+$boost=8,site=davidswanson.org
+$boost=8,site=konservativ.de
+$boost=8,nius.de
+$boost=8,site=norberthaering.de
 
 /r/uncensorednews/$boost=3,site=reddit.com
 /r/libertarian/$boost=3,site=reddit.com
