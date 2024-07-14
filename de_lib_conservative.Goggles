@@ -166,7 +166,7 @@ $boost=1,site=capitalresearch.org
 $boost=1,site=brownstone.org
 $boost=1,site=bluelivesmatter.blue
 
-
+$downrank=10,site=tagesschau.de
 $downrank=5,site=taz.de
 $downrank=5,site=freitag.de
 $downrank=5,site=nachdenkseiten.de
