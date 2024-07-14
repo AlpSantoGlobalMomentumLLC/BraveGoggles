@@ -23,13 +23,11 @@ $boost=10,site=libertarianism.org
 
 $boost=8,site=achgut.com
 $boost=8,site=journalistenwatch.com
-$boost=8,site=pi-news.net
 $boost=8,site=freiewelt.net
 $boost=8,site=tichyseinblick.de
 $boost=8,site=cicero.de
-$boost=8,site=philosophia-perennis.com
-$boost=8,site=davidswanson.org
-$boost=8,site=konservativ.de
+$boost=2,site=philosophia-perennis.com
+
 $boost=8,site=nius.de
 $boost=8,site=norberthaering.de
 
@@ -61,7 +59,7 @@ $boost=2,site=deutsche-wirtschafts-nachrichten.de
 $boost=2,site=pi-news.net
 $boost=2,site=philosophia-perennis.com
 $boost=2,site=davidswanson.org
-$boost=2,site=konservativ.de
+
 
 
 $boost=1,site=wnd.com
@@ -186,7 +184,7 @@ $downrank=5,site=utopia.de
 $downrank=5,site=klimareporter.de
 $downrank=5,site=greenpeace.de
 $downrank=5,site=reset.org
-$downrank=5,site=robinwood.de
+$downrank=10,site=robinwood.de
 
 /r/politics/$downrank=3,site=reddit.com
 /r/socialism/$downrank=3,site=reddit.com
@@ -208,12 +206,7 @@ $downrank=2,site=tagesspiegel.de
 $downrank=2,site=fr.de
 $downrank=2,site=stuttgarter-zeitung.de
 $downrank=2,site=heise.de
-$downrank=2,site=ndr.de
-$downrank=2,site=wdr.de
-$downrank=2,site=arte.tv
-$downrank=2,site=utopia.de
-$downrank=2,site=klimareporter.de
-$downrank=2,site=greenpeace.de
+$downrank=10,site=klimareporter.de
 $downrank=2,site=reset.org
 $downrank=2,site=robinwood.de
 
