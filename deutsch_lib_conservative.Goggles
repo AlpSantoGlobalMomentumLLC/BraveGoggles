@@ -201,7 +201,6 @@ $downrank=10,site=robinwood.de
 
 $downrank=3,site=sueddeutsche.de
 $downrank=3,site=zeit.de
-$downrank=3,site=spiegel.de
 $downrank=3,site=deutschlandfunk.de
 $downrank=3,site=woz.ch
 $downrank=3,site=guardian.co.uk
