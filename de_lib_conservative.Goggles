@@ -43,8 +43,8 @@ $boost=3,site=deutschland-kurier.org
 /opinion^$boost=3,site=welt.de
 /opinion^$boost=3,site=focus.de
 
-$boost=2,site=welt.de
-$boost=2,site=focus.de
+! $boost=2,site=welt.de
+! $boost=2,site=focus.de
 $boost=2,site=theeuropean.de
 $boost=2,site=freiepresse.de
 $boost=2,site=achgut.com
