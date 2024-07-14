@@ -22,12 +22,19 @@ $boost=10,site=fee.org
 $boost=10,site=libertarianism.org
 $boost=10,site=afdkompakt.de
 $boost=10,site=www.campact.de
-
-$boost=8,site=achgut.com
-$boost=8,site=journalistenwatch.com
+$boost=10,site=novo-argumente.com
+$boost=10,site=prometheusinstitut.de
+$boost=10,site=zitelmanns-blog.de
+$boost=10,site=liberale-warte.de
+$boost=10,site=der-freiraum.de
+$boost=10,site=libertaere-plattform.de
+$boost=10,site=anti-mainstream.de
+$boost=10,site=libertaeres-institut.de
+$boost=10,site=achgut.com
+$boost=10,site=journalistenwatch.com
 $boost=8,site=freiewelt.net
 $boost=8,site=tichyseinblick.de
-$boost=8,site=cicero.de
+$boost=3,site=cicero.de
 $boost=2,site=philosophia-perennis.com
 
 $boost=8,site=nius.de
@@ -328,3 +335,12 @@ $downrank=10,site=www.rnd.de
 $downrank=10,site=reuters.com
 $downrank=10,site=euractiv.com
 $downrank=10,site=stern.de
+$downrank=10,site=spiegel.de
+$downrank=10,site=sueddeutsche.de
+$downrank=10,site=zeit.de
+$downrank=10,site=deutschlandfunk.de
+$downrank=10,site=freitag.de
+$downrank=10,site=jungle.world
+$downrank=10,site=monitor.de
+$downrank=10,site=derstandard.de
+$downrank=10,site=heise.de
