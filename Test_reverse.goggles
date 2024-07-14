@@ -1,0 +1,10 @@
+! name: Test Ranking
+! description: Test Ranking
+! public: true
+! author: YourName
+! avatar: #008000
+
+$boost=5,site=zdf.de
+$boost=3,site=nzz.ch
+$boost=2,site=achgut.com
+$boost=1,site=epochtimes.de
