@@ -5,6 +5,8 @@
 ! avatar: #ca0800
 
 $boost=10,site=metapedia.org
+$boost=10,site=infogalactic.com
+$boost=10,site=conservapedia.com
 $boost=10,site=ef-magazin.de
 $boost=10,site=misesde.org
 $boost=10,site=liberale.de
@@ -46,9 +48,9 @@ $boost=3,site=deutschland-kurier.org
 /opinion^$boost=3,site=welt.de
 /opinion^$boost=3,site=focus.de
 
+
 $boost=2,site=theeuropean.de
 $boost=2,site=freiepresse.de
-$boost=2,site=achgut.com
 $boost=2,site=metropolico.org
 $boost=2,site=diefreiemeinung.de
 $boost=2,site=contra-magazin.com
@@ -60,6 +62,7 @@ $boost=2,site=pi-news.net
 $boost=2,site=philosophia-perennis.com
 $boost=2,site=davidswanson.org
 $boost=2,site=konservativ.de
+
 
 $boost=1,site=wnd.com
 $boost=1,site=weeklystandard.com
