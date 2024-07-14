@@ -269,16 +269,6 @@ $downrank=1,site=harpers.org
 $downrank=1,site=atlanticcouncil.org
 $downrank=1,site=cfr.org
 
-
-That's easy, hier ist die überarbeitete und kritisch durchdachte Liste, kategorisiert und angepasst:
-
-! name: Downrank State Media - Germany
-! description: Rank results to downrank content from state-run or state-affiliated media sources in Germany, categorized by political bias.
-! public: true
-! author: YourName
-! homepage: https://www.allsides.com/
-! avatar: #ca0800
-
 ! Links laut AI
 $downrank=5,site=ard.de
 $downrank=5,site=br.de
